@@ -1,0 +1,1 @@
+class WordAndDistance(val word: String, val count: Int)
